@@ -1,2 +1,2 @@
-a="laptop is good"
+a=(input())
 print(len(a))
