@@ -1,6 +1,6 @@
-name=raw_input("enter the string")
+x=input("enter the string")
 count=0
-for i in name:
+for i in x:
     if(i.isdigit()):
         count=count+1
 print(count)
