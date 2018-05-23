@@ -1,4 +1,4 @@
-x="laptop"
-y=3
-x=y*x
-print(x)
+x=int(input())
+y=input()
+for i in range(1,x+1):
+  print(y)
